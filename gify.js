@@ -1,3 +1,4 @@
+/* eslint-disable */
 /*
  * gify v1.2
  * https://github.com/rfrench/gify
@@ -72,7 +73,7 @@ var gify = (function() { 'use strict';
       globalPalette: false,
       globalPaletteSize: 0,
       globalPaletteColorsRGB:[],
-      loopCount: 0,
+      loopCount: null,
       height: 0,
       width: 0,
       animated: false,

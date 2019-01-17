@@ -1,3 +1,4 @@
+/* eslint-disable */
 //
 // jDataView by Vjeux - Jan 2010
 //
